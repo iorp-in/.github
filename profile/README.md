@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Indian Ocean Roleplay (IORP) SA-MP server operated from 2018 to 2024. Welcome to the new homepage of IORP. Our cherished memories are stored on our Instagram page and Discord server. We are immensely grateful for all the love and support you have given us over the years. Thank you for making IORP such an amazing community.
